@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-09-25` |
+| **3** | 0 | 3 | 0 | `2026-09-25` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [690. Divisors of a Number](./DSA/Beginner-Problems/divisors-of-a-number) | [CPP](./DSA/Beginner-Problems/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
-| 0002 | [792. LCM of two numbers](./DSA/Beginner-Problems/lcm-of-two-numbers) | [CPP](./DSA/Beginner-Problems/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0001 | [781. Count all Digits of a Number](./DSA/Beginner-Problems/count-all-digits-of-a-number) | [CPP](./DSA/Beginner-Problems/count-all-digits-of-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0002 | [690. Divisors of a Number](./DSA/Beginner-Problems/divisors-of-a-number) | [CPP](./DSA/Beginner-Problems/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0003 | [792. LCM of two numbers](./DSA/Beginner-Problems/lcm-of-two-numbers) | [CPP](./DSA/Beginner-Problems/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
 
 ---
 
