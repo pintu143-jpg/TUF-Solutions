@@ -6,17 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 | `2026-09-25` |
+| **2** | 0 | 2 | 0 | `2026-09-25` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### DSA (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [792. LCM of two numbers](./DSA/Beginner-Problems/lcm-of-two-numbers) | [CPP](./DSA/Beginner-Problems/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0001 | [690. Divisors of a Number](./DSA/Beginner-Problems/divisors-of-a-number) | [CPP](./DSA/Beginner-Problems/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
+| 0002 | [792. LCM of two numbers](./DSA/Beginner-Problems/lcm-of-two-numbers) | [CPP](./DSA/Beginner-Problems/lcm-of-two-numbers/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-25` |
 
 ---
 
